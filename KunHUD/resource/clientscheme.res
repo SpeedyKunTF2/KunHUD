@@ -17,7 +17,9 @@ Scheme
 
 	//////////////////////// COLORS ///////////////////////////
 	Colors
-	{
+
+	{	"kunBlack"			"0 0 0 255"
+		"kunWhite"			"255 255 255 255"
 		// base colors
 		"Orange"			"178 82 22 255"
 		"OrangeDim"			"178 82 22 120"
@@ -25,7 +27,7 @@ Scheme
 		"GoalOrange"		"255 133 0"
 		"TFOrange"			"145 73 59 255"
 		
-		"White"				"235 235 235 255"
+		"White"			"235 235 235 255"
 		"Red"				"192 28 0 140"
 		"RedSolid"			"192 28 0 255"
 		"Blue"				"0 28 162 140"

@@ -72,7 +72,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"BitstreamVeraSans56"
-		"fgcolor"		"0 148 255 255"
+		"fgcolor"		"kunWhite"
 	}								
 		"PlayerStatusHealthValueBG"
 	{
@@ -88,7 +88,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"BitstreamVeraSans56"
-		"fgcolor"		"0 0 255 255"
+		"fgcolor"		"kunBlack"
 	}
 	"PlayerStatusBleedImage"
 	{
